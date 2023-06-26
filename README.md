@@ -1,4 +1,4 @@
-# NodeCG Docs
+# NodeCG Docs 
 
 These docs are built using [Docusaurus 2](https://v2.docusaurus.io/).
 
